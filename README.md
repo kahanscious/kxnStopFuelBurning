@@ -23,6 +23,9 @@ updated and modified for 1.3 compatibility.
 
 ## changelog
 
+### version 1.0.1
+- initial version didn't work with workstations (ie forge). this fixes that.
+
 ### version 1.0.0
 - initial version for 1.3 b9
 - fixed compatibility issues with newer game version
